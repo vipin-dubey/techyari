@@ -24,9 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
  A programming blog.
 domain: "www.techyari.in/"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.techyari.in//" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.techyari.in//" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: TechYari
+github_username:  vipin-dubey
+# Google Analytics
+google_analytics: UA-36975991-2
 
 # Build settings
 theme: minima
