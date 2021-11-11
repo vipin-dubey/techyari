@@ -22,9 +22,9 @@ title: TechYari
 email: techyari@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  A programming blog.
-domain: "vipin-dubey.github.io"
-baseurl: "/techyari" # the subpath of your site, e.g. /blog
-url: "https://vipin-dubey.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "www.techyari.in/"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.techyari.in//" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
